@@ -31,7 +31,7 @@ body {
 
 /* Header Styles */
 .header {
-    background: url("C:/Users/LENOVO/alx_html_css/headphones/iamges/d1597894d79386c83b9b/images/headphones_hero_1.jpg") no-repeat center center;
+    background: url("images/headphones_hero_1.jpg") no-repeat center center;
     color: #fff;
     padding: 20px 0;
 }
@@ -145,7 +145,7 @@ body {
 
 /* Our results Section */
 .our-results {
-    background: url("C:/Users/LENOVO/alx_html_css/headphones/iamges/d1597894d79386c83b9b/images/headphones_hero_2.jpg") no-repeat center center;
+    background: url("images/headphones_hero_2.jpg") no-repeat center center;
     padding: 80px 0;
     text-align: center;
     color: #FFFFFF; /* Set text color to white */
@@ -161,7 +161,7 @@ body {
 .pentagon {
     width: 150px; /* Adjust width as needed */
     height: 150px; /* Adjust height as needed */
-    background: url("C:/Users/LENOVO/alx_html_css/headphones/iamges/d1597894d79386c83b9b/images/pentagone.png") no-repeat center center;
+    background: url("images/pentagone.png") no-repeat center center;
     background-size: cover;
     position: relative;
     margin: 0 10px; /* Adjust horizontal margin for spacing */
@@ -185,9 +185,6 @@ body {
     font-size: 20px; /* Make +2% text larger */
     font-weight: bold; /* Make it bold */
 }
-
-/* Adjust other styles as needed */
-
 
 
 /* Contact us Section */
@@ -304,4 +301,3 @@ body {
 .footer-social a {
     display: inline-block;
 }
-
